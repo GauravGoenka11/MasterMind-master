@@ -82,6 +82,13 @@ This file contains the common styles of this theme.
  * Typography.less
  * -----------------------------------------------
 */
+
+.bg-none{
+  background-image: none!important;
+}
+#why{
+  background-color: bisque;
+}
 .button-space{
     margin-bottom: 17px;
     margin-top: 17px;
